@@ -1,2 +1,2 @@
-# CDebugTools
-Personal tools for c programs
+# COMMS
+COMMS folders

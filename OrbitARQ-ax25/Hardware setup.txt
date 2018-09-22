@@ -1,0 +1,4 @@
+STM32F401RE nucleo boards will be using USART 1 to communicate with each other and USART 2 to communicate with the computer
+
+RX is on the third pin from the bottom of CN9
+TX is the first pin from the bottom of CN5
