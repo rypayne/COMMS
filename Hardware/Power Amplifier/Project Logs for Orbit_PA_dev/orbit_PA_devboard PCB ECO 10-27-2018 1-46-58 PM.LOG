@@ -1,0 +1,81 @@
+Added Component: Designator=C1(CAP 1005 (0402) B-Density)
+Added Component: Designator=C2(CAP 1005 (0402) B-Density)
+Added Component: Designator=C3(CAP 1608 (0603) B-Density)
+Added Component: Designator=C4(CAP 1005 (0402) B-Density)
+Added Component: Designator=C5(CAP 1005 (0402) B-Density)
+Added Component: Designator=C10(CAP 1005 (0402) B-Density)
+Added Component: Designator=C11(CAP 1005 (0402) B-Density)
+Added Component: Designator=J1(MOLEX 732511350)
+Added Component: Designator=J2(MOLEX 732511350)
+Added Component: Designator=L1(IND 1608 (0603))
+Added Component: Designator=L2(IND 1608 (0603))
+Added Component: Designator=L3(IND 1608 (0603))
+Added Component: Designator=L4(IND 1608 (0603))
+Added Component: Designator=L5(IND 1608 (0603))
+Added Component: Designator=P1(HDR1X2_LGE1.0)
+Added Component: Designator=R1(RES 1005 (0402))
+Added Component: Designator=R2(CAP 1005 (0402) B-Density)
+Added Component: Designator=U1(QFN 3x3)
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=L3-1
+Added Pin To Net: NetName=+5V Pin=L4-1
+Added Pin To Net: NetName=+5V Pin=P1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=+5V Pin=U1-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=J2-1
+Added Pin To Net: NetName=NetC11_2 Pin=L5-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=L1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=L2-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=U1-3
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=U1-11
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=U1-7
+Added Pin To Net: NetName=NetL5_1 Pin=U1-8
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-12
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=PDET Pin=C4-1
+Added Pin To Net: NetName=PDET Pin=U1-6
+Added Net: Name=PDET
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=VCC Pin=L3-2
+Added Pin To Net: NetName=VCC Pin=U1-9
+Added Net: Name=VCC
