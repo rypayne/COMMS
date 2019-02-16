@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: orbit_PA_devboard.PcbDoc   1/12/2019  2:26:28 PM
+NCDrill File Report For: orbit_PA_devboard.PcbDoc   2/16/2019  12:36:51 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : orbit_PA_devboard.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      6mil (0.15mm)                                             Round             9         PTH        0.16inch (4.06mm)
-T2      22mil (0.559mm)                                           Round             179       PTH        17.51inch (444.77mm)
+T1      10mil (0.25mm)                                            Round             9         PTH        0.20inch (5.08mm)
+T2      21mil (0.533mm)                                           Round             167       PTH        17.24inch (437.92mm)
 T3      39mil (0.991mm)                                           Round             6         PTH        0.79inch (20.09mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              194
+Totals                                                                              182
 
 Total Processing Time (hh:mm:ss) : 00:00:00
