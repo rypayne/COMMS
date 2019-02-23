@@ -28,3 +28,20 @@ static uint8_t tx_frag_buf[2 + CC1120_TX_FIFO_SIZE];
 static uint8_t rx_spi_tx_buf[2 + CC1120_RX_FIFO_SIZE];
 static uint8_t rx_tmp_buf[2 + CC1120_RX_FIFO_SIZE];
 
+
+/**
+ * Delay for \p us microseconds.
+ * NOTE: This delay function is not so accurate!!!
+ * @param us how many microseconds to delay the execution
+ */
+static inline void
+delay_us (uint32_t us)
+{
+  volatile uint32_t cycles = (SystemCoreClock / 1000000L) * us;
+  volatile uint32_t start = 0;
+  do {
+    start++;
+  }
+  while (start < cycles);
+}
+
